@@ -25,13 +25,13 @@ Note:
 
 3. Copy the project code
 
-sh projectfiles.sh
 
-copies the model files and the config files 
-a) model/archs/deblur.py
-b) model/archs/pixel_volume.py
-c) model/archs/PVDNet.py (our Video modeling framework)
-d) config/config_PVDNet.py
+
+copies the model files and the config files  \\
+a) copy deblur.py to model/archs/deblur.py \\
+b) copy pixel_volume.py to model/archs/pixel_volume.py \\
+c) copy PVDNet.py to model/archs/PVDNet.py (our Video modeling framework) \\
+d) copy config_PVDNet.py to config/config_PVDNet.py
 
 4. To run training:
 
