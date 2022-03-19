@@ -1,4 +1,4 @@
-README
+<README
 1. Environment:->
 
 $ git clone https://github.com/codeslake/PVDNet.git
@@ -43,4 +43,4 @@ CUDA_VISIBLE_DEVICES=0 python run.py --mode PVDNet_DVD --config config_PVDNet --
 
 6. project model copied in the project_model folder, say, /tmpPVDNet_DVD_00231.pytorch
 
-7. The model output in the /tmp/logs folder.
+7. The model output in the /tmp/logs folder.>
