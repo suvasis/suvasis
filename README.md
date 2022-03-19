@@ -32,7 +32,7 @@ a) copy deblur.py to model/archs/deblur.py \\
 b) copy pixel_volume.py to model/archs/pixel_volume.py \\
 c) copy PVDNet.py to model/archs/PVDNet.py (our Video modeling framework) \\
 d) copy config_PVDNet.py to config/config_PVDNet.py
-e) project model is PVDNet_DVD_00231.pytorch, copy it to a temporary directory /tmp.
+e) project model is PVDNet_DVD_00231.pytorch is more than 25MB so not allowed to be copied.
 
 4. To run training:
 
